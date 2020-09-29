@@ -1,0 +1,13 @@
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\bin\Debug\netcoreapp3.1\Codecademy-MoneyMaker.exe
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\bin\Debug\netcoreapp3.1\Codecademy-MoneyMaker.deps.json
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\bin\Debug\netcoreapp3.1\Codecademy-MoneyMaker.runtimeconfig.json
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\bin\Debug\netcoreapp3.1\Codecademy-MoneyMaker.runtimeconfig.dev.json
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\bin\Debug\netcoreapp3.1\Codecademy-MoneyMaker.dll
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\bin\Debug\netcoreapp3.1\Codecademy-MoneyMaker.pdb
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\obj\Debug\netcoreapp3.1\Codecademy-MoneyMaker.csprojAssemblyReference.cache
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\obj\Debug\netcoreapp3.1\Codecademy-MoneyMaker.AssemblyInfoInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\obj\Debug\netcoreapp3.1\Codecademy-MoneyMaker.AssemblyInfo.cs
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\obj\Debug\netcoreapp3.1\Codecademy-MoneyMaker.csproj.CoreCompileInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\obj\Debug\netcoreapp3.1\Codecademy-MoneyMaker.dll
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\obj\Debug\netcoreapp3.1\Codecademy-MoneyMaker.pdb
+C:\Users\mcelhinny_benjamin\source\repos\Codecademy-MoneyMaker\Codecademy-MoneyMaker\obj\Debug\netcoreapp3.1\Codecademy-MoneyMaker.genruntimeconfig.cache
